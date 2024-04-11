@@ -37,11 +37,11 @@ To access the app, you'll need to provide the following credentials:
 
 Profiling Screenshots:
 
-![Screenshot 1](src/Profiling/Screenshot(18).png)
+![Screenshot 1](https://github.com/manuelsaneh/SocialMediaApp-Assignment6/blob/main/src/Profiling/Screenshot%20(18).png)
 
-![Screenshot 2](src/Profiling/Screenshot(22).png)
+![Screenshot 2](https://github.com/manuelsaneh/SocialMediaApp-Assignment6/blob/main/src/Profiling/Screenshot%20(22).png)
 
-![Screenshot 3](src/Profiling/Screenshot(23).png)
+![Screenshot 3](https://github.com/manuelsaneh/SocialMediaApp-Assignment6/blob/main/src/Profiling/Screenshot%20(23).png)
 
-![Screenshot 4](src/Profiling/Screenshot(24).png)
+![Screenshot 4](https://github.com/manuelsaneh/SocialMediaApp-Assignment6/blob/main/src/Profiling/Screenshot%20(24).png)
 
